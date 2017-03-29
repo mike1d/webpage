@@ -15,3 +15,6 @@ baseurl:          /
 author:
   name:           'Mike D'
   url:            http://mike1d.github.io
+  
+sass:
+  style: compressed
